@@ -16,8 +16,8 @@ vars:
   # Set your GPU ID, -1 is CPU
   gpu_id: -1
   # Vectors model for train-with-vectors
-  vectors_model: "de_core_news_md"
-  pipeline: "de_core_news_sm"
+  vectors_model: "fr_core_news_md"
+  pipeline: "fr_core_news_sm"
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
